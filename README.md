@@ -1,5 +1,4 @@
 # Indeed Job Search using Selenium
-- in progress... 
 - began 12/07/2022
 
 ## What is it?
